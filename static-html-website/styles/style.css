@@ -1,0 +1,41 @@
+
+
+html {
+    font-family: "Roboto", sans-serif;
+    text-align: left;
+    background-image: linear-gradient(180deg, red, yellow);
+  }
+  body {
+    width: 600px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  body:hover{
+    background-color: lemonchiffon;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    text-decoration: underline;
+  }
+
+  h1:hover{
+    font-size: 50px;
+    text-decoration: underline wavy ;
+    color: #7b008b;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 250px;
+    width: 200px;
+    padding: 0;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
